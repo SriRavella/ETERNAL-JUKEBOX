@@ -4,10 +4,6 @@
 -   Jukebox "freezing" and getting out of sync
 -   Songs getting stuck in short loops due to issues with the graph generation
 
-## Upcoming features
-
--   More graph interactivity
-
 ## Uninstall
 
 1. Run `spicetify config-dir` to open the spicetify folder
